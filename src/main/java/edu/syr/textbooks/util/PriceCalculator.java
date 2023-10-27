@@ -1,4 +1,4 @@
-package edu.syr.TextBooks.util;
+package edu.syr.textbooks.util;
 
 public class PriceCalculator {
 }
